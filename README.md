@@ -16,5 +16,5 @@ See the License for the specific language governing permissions and
 limitations under the License.
 ```
 #Screenshot
-![Path-Trackr](https://imgur.com/1G0muGP)
+![Path-Trackr](https://i.imgur.com/1G0muGP.png)
 
